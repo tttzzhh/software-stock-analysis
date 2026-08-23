@@ -1,0 +1,5 @@
+interface:
+  display_name: "Software Stock Analysis"
+  short_description: "Analyze software stocks, KPIs, positioning, moats, and risks"
+  default_prompt: "Use $software-stock-analysis to analyze this software company or peer group with a clearly defined comparison set."
+
